@@ -1,7 +1,7 @@
 # library
 
 
-We are undergoing funding internel post period for two month, the source code will be release in July/4
+**We are undergoing funding internel post period for two month, the source code will be release in 4th July**
 
 
 Motivation:
